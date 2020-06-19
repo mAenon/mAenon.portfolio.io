@@ -118,7 +118,7 @@
     why?
     if I use mac VSCode
         git graph did not work well
-        
+
     git log --graph してもうまく出ないから，多分元々の構造がダメな気がする
     mac側でプロジェクトを作成し始めたのが原因？
     一旦削除してcloneしなおしたら直った気がする．
@@ -127,4 +127,12 @@
 
     今度はHEADっていうブランチが出るようになったけどVSCodeで触ろうとするとエラーになる．
     これは対処がわかっていない
+    これは対処がわかった
+    リポジトリをコピーするときに
+    git clone urlではなく
+
+    git init XXX
+    cd XXX
+    git remote add origin url
+    git pull origin masterすればよい
 -->
