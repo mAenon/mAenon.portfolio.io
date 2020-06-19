@@ -1,46 +1,13 @@
 .center {
-    width : 400pt;
     text-align : center;
-    margin-left: auto;
-    margin-right: auto;
     margin-top: 10pt;
     margin-bottom: 10pt;
 }
 
 body{
     background-color: #4b4b4b;
-    font-family: "Meiryo";
-    color: white;
-}
-
-.header{
-}
-
-.aboutMe{
-
-
-}
-
-.introduction{
-
-
-}
-
-.pageInfo{
-
-
-}
-
-.skills{
-
-
-}
-
-.contact{
-
-}
-
-.footer{
+    font-family: "serif";
+    color: #f2f2f2;
 }
 
 a{
