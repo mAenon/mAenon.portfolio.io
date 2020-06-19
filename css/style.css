@@ -10,6 +10,10 @@ body{
     color: #f2f2f2;
 }
 
+span.torikeshi{
+    text-decoration: line-through;
+}
+
 a{
     color : #dd6f00
 }

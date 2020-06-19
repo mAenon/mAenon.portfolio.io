@@ -1,5 +1,7 @@
-# portfolio:constraction
+# portfolio
 
-mysite is [here](https://maenon.github.io/portfolio/)
+mysite is ~~[here](https://maenon.github.io/portfolio/)~~  
+now this page is under constraction
 
-this is constraction branch that can do anything
+Brunch **master** is current Version  
+Brunch **constraction** is development Version
